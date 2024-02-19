@@ -19,3 +19,9 @@ RL can use agents to learn from the environment with the help of rewards (+/-) a
 RL courses i suggest:
 1. https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
 2. https://huggingface.co/learn/deep-rl-course/unit0/introduction
+
+## Understanding Trading
+I am going to use historical market data to train the RL agent. 
+The trading market will be stocks.
+The link to the dataset is : https://www.kaggle.com/datasets/felsal/ibovespa-stocks/data
+It contains stocks from Brazilian Stock Exchange from 1994-2020
